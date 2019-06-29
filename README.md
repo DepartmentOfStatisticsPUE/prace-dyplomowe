@@ -1,2 +1,7 @@
-# prace-dyplomowe
-Repozytorium z pracami licencjackimi i magisterskimi
+# Repozytorium z pracami dyplomowymi
+
+
+## Prace licencjackie
+
+
+## Prace magisterskie
