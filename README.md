@@ -24,4 +24,4 @@
 ### 2019
 + 2019 - Piotr Opiela – [Estimation of the impact of automatic traffic supervision on vehicle speed using the difference-in-differences approach](magisterskie/2019-opiela104344mgr.pdf) (promotor dr Beręsewicz)
 + 2019 - Greta Białkowska, Magdalena Maślak, Krzysztof Marcinkowski – [Internetowe źródła danych o popycie na pracę w Polsce](magisterskie/2019-bialkowska-maslak-marcinkowski.pdf) (promotor dr Beręsewicz)
-
++ 2019 - Katarzyna Pawlukiewicz – [Estymacja liczby cudzoziemców nielegalnie przebywających w Polsce z wykorzystaniem hierarchicznego modelu Gamma-Poissona](magisterskie/2019-pawlukiewicz.pdf) (promotor dr Beręsewicz)
