@@ -38,7 +38,7 @@
 
 + Michel Voss - [Wykorzystanie głębokich sieci neuronowych na potrzeby statystyki energii odnawialnej](magisterskie/2021-voss.pdf) (promotor dr Beręsewicz). Wyniki:
 
-	+ [Zdjęcia litnicze i oznaczenia (doi: 10.34740/kaggle/dsv/2412303)](https://www.kaggle.com/mivoss/photovoltaic-systems-on-aerial-images)
+	+ [Zdjęcia lotnicze i oznaczenia (doi: 10.34740/kaggle/dsv/2412303)](https://www.kaggle.com/mivoss/photovoltaic-systems-on-aerial-images)
 	+ [Przykładowy skrypt na Google Colab z wykorzystaniem utworzonej sieci](https://colab.research.google.com/drive/1CQIJQo1vxqLZRllfT68bRSYAL_Iyy0yu?usp=sharing)
 
 ### 2020
