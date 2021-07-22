@@ -10,7 +10,6 @@
 + Mateusz Marszałkowski - [Rozszerzenie badania popyt na pracę o informacje z Centralnej Bazy Ofert Pracy z wykorzystaniem metod dla prób nielosowych](licencjat/2021-marszalkowski.pdf)
 + Radosław Szymczyk - [Analiza sentymentu wypowiedzi użytkowników Twittera o Głównym Urzędzie Statystycznym przy użyciu sztucznych sieci neuronowych](licencjat/2021-szymczyk.pdf)
 
-
 ### 2020
 
 + Daniel Pastewski - Prognozowanie popytu na pracę w Polsce z wykorzystaniem hierarchicznych modeli szeregów czasowych
@@ -46,7 +45,6 @@
 
 + Paulina Borowczyk - Analiza wzorców przemieszczania się w budynkach Uniwersytetu Ekonomicznego w Poznaniu na podstawie logowań do sieci Wi-Fi
 + Wiktoria Olechnowicz - Wycena nieruchomości na wynajem z wykorzystaniem informacji zawartych w języku naturalnym
-
 
 ### 2019
 
